@@ -21,7 +21,7 @@
 ---
 ### 📒 Портфолио:
 
-  - **Pet-проекты**  [Pet-logo](https://github.com/fahtuu/fahtuu/blob/main/assets/samokat_praktikum.jpg)
+  - **Pet-проекты**  ![Pet-logo](https://github.com/fahtuu/fahtuu/blob/main/assets/samokat_praktikum.jpg)
 [Яндекс.Самокат](https://disk.yandex.ru/d/Mr6_k-YQf8OjDg)
   - **Коммерческие проекты**:
 1. Комплексные решения для логистического бизнеса [_**Transmatika**_](https://transmatika.com/)
