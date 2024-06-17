@@ -61,7 +61,6 @@
 
 <div>
   <img src="https://cdn-icons-png.flaticon.com/256/5968/5968342.png" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
 </div>
 
 ---
