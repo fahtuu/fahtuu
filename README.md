@@ -21,8 +21,7 @@
 ---
 ### 📒 Портфолио:
 
-  - **Pet-проекты**  ![Pet-logo](https://github.com/fahtuu/fahtuu/blob/main/assets/samokat_praktikum.jpg)
-[Яндекс.Самокат](https://disk.yandex.ru/d/Mr6_k-YQf8OjDg)
+  - **Pet-проекты** [**Яндекс.Самокат**](https://disk.yandex.ru/d/Mr6_k-YQf8OjDg)  ![Pet-logo](https://github.com/fahtuu/fahtuu/blob/main/assets/samokat_praktikum.jpg)
   - **Коммерческие проекты**:
 1. Комплексные решения для логистического бизнеса [_**Transmatika**_](https://transmatika.com/)
 2. Веб-приложение для знакомств в Telegram [**_Swipy_**](https://t.me/swipy_dating_bot)
