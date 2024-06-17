@@ -18,6 +18,10 @@
 
 - 📚 **Пройденные курсы**:
 Яндекс.Практикум [RU](https://disk.yandex.ru/i/Kid6pWrroA8kYg)  | [EN](https://disk.yandex.ru/i/QGA6ulBzvbFi2w)
+---
+### 📒 Портфолио:
+
+  - **Pet-проекты**  [![Pet-logo](https://github.com/fahtuu/fahtuu/blob/main/assets/samokat_praktikum.jpg)](https://disk.yandex.ru/d/4FK4PMxq5z2CsQ)
 
 ---
 ### 🤝 Социальные сети:
