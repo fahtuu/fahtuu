@@ -1,4 +1,4 @@
-![Header](https://github.com/fahtuu/fahtuu/blob/main/assets/header.gif)
+[![Header](https://github.com/fahtuu/fahtuu/blob/main/assets/header.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ---
 
