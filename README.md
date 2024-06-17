@@ -6,7 +6,7 @@
 
 ### Я действующий Junior Manual QA. 
 ### Мои направления:
-#### - Веб-приложения (FrontEnd & Backend)
+#### - Веб-приложения (Frontend & Backend)
 #### - Telegram Web Apps
 #### - Мобильные приложения
 
@@ -21,7 +21,8 @@
 ---
 ### 📒 Портфолио:
 
-  - **Pet-проекты**  [![Pet-logo](https://github.com/fahtuu/fahtuu/blob/main/assets/samokat_praktikum.jpg)](https://disk.yandex.ru/d/4FK4PMxq5z2CsQ)
+  - **Pet-проекты**  [![Pet-logo](https://github.com/fahtuu/fahtuu/blob/main/assets/samokat_praktikum.jpg)](https://disk.yandex.ru/d/Mr6_k-YQf8OjDg)
+  - **Коммерческие проекты** _NDA_
 
 ---
 ### 🤝 Социальные сети:
